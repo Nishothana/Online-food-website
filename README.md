@@ -6,40 +6,40 @@ This project is an online food ordering website designed using Figma. It aims to
 
 Table of Contents:
 
-*Project Overview
+     <>  Project Overview
 
-*Installation
+     <> Installation
 
-*Usage
+     <>  Usage
 
-*Features
+     <> Features
 
-*Contributing
+     <> Contributing
 
-*License
+     <> License
 
-*Contact
+     <> Contact
 
 Project Overview:
 
-This project involves designing an intuitive and user-friendly online food ordering website. It includes various pages and elements such as the homepage, restaurant listings, menu pages, and the checkout process.
+ This project involves designing an intuitive and user-friendly online food ordering website. It includes various pages and elements such as the homepage, restaurant listings, menu pages, and the checkout process.
 
 Installation:
  Figma
 
-[Project Link](https://www.figma.com/proto/a4I1GoT0sIlxo3w25lV0aJ/project?page-id=34%3A50&node-id=119-287&viewport=-743%2C502%2C0.65&t=FeSVYLnzFiJE3o56-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=119%3A287)
+[Project Link in Figma](https://www.figma.com/proto/a4I1GoT0sIlxo3w25lV0aJ/project?page-id=34%3A50&node-id=119-287&viewport=-743%2C502%2C0.65&t=FeSVYLnzFiJE3o56-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=119%3A287)
 
 Usage:
 
-To view or edit the design:
+ To view or edit the design:
 
-1.Open the Figma project link:
+  1.Open the Figma project link:
 
-[Project Link](https://www.figma.com/proto/a4I1GoT0sIlxo3w25lV0aJ/project?page-id=34%3A50&node-id=119-287&viewport=-743%2C502%2C0.65&t=FeSVYLnzFiJE3o56-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=119%3A287)
+ [Project Link in Figma](https://www.figma.com/proto/a4I1GoT0sIlxo3w25lV0aJ/project?page-id=34%3A50&node-id=119-287&viewport=-743%2C502%2C0.65&t=FeSVYLnzFiJE3o56-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=119%3A287)
 
-2.Navigate through the different frames to explore the various pages and components.
+ 2.Navigate through the different frames to explore the various pages and components.
 
-3.Use the Figma tools to edit or add new elements to the design.
+ 3.Use the Figma tools to edit or add new elements to the design.
 
 Features:
 
@@ -53,8 +53,15 @@ Checkout Process: A streamlined process for users to place orders and make payme
 
 Responsive Design: Ensuring the website works well on various devices.
 
-Contributing:
-pasteImage.default.C:\Users\nisho\OneDrive\Pictures\Screenshots\Screenshot 2024-07-23 191740.png"
+Contributing: Figma frames
+
+![main frame](<Screenshot 2024-07-23 191740.png>)
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+ 
+![alt text](image-2.png)
 
 
 
