@@ -54,7 +54,7 @@ Checkout Process: A streamlined process for users to place orders and make payme
 Responsive Design: Ensuring the website works well on various devices.
 
 Contributing:
-"C:\Users\nisho\OneDrive\Pictures\Screenshots\Screenshot 2024-07-23 191740.png"
+pasteImage.default.C:\Users\nisho\OneDrive\Pictures\Screenshots\Screenshot 2024-07-23 191740.png"
 
 
 
